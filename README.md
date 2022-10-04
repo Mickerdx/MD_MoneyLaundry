@@ -1,4 +1,4 @@
-# FiveM-QBCore-Money-Laundry
+# [QBCore] MD_MoneyLaundry
 
 ## Links
 ### MLO:
